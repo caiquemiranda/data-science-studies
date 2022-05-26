@@ -1,2 +1,2 @@
-# data-science-studies
-data-science-studies
+# studies-data-science
+studies-data-science
