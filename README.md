@@ -14,3 +14,13 @@ studies-data-science
 - [x] Numpy       
 - [x] Matplotlib  
 - [x] Seaborn    
+
+
+---
+fix
+
+- [ ] correct-name = .03, .02
+- [ ] pandas
+- [ ] titanic
+- [ ] python
+- [ ] readme
